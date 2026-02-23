@@ -1,0 +1,16 @@
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\bin\Debug\net8.0\juniorhup.Application.deps.json
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\bin\Debug\net8.0\juniorhup.Application.dll
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\bin\Debug\net8.0\juniorhup.Application.pdb
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\bin\Debug\net8.0\juniorhup.Domain.dll
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\bin\Debug\net8.0\juniorhup.Domain.pdb
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\obj\Debug\net8.0\juniorhup.Application.csproj.AssemblyReference.cache
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\obj\Debug\net8.0\juniorhup.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\obj\Debug\net8.0\juniorhup.Application.AssemblyInfoInputs.cache
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\obj\Debug\net8.0\juniorhup.Application.AssemblyInfo.cs
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\obj\Debug\net8.0\juniorhup.Application.csproj.CoreCompileInputs.cache
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\obj\Debug\net8.0\juniorhup.Application.sourcelink.json
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\obj\Debug\net8.0\juniorhu.4968C5A6.Up2Date
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\obj\Debug\net8.0\juniorhup.Application.dll
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\obj\Debug\net8.0\refint\juniorhup.Application.dll
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\obj\Debug\net8.0\juniorhup.Application.pdb
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Application\obj\Debug\net8.0\ref\juniorhup.Application.dll

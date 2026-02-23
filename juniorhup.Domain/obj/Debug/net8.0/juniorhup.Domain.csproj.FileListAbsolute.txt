@@ -1,0 +1,12 @@
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Domain\bin\Debug\net8.0\juniorhup.Domain.deps.json
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Domain\bin\Debug\net8.0\juniorhup.Domain.dll
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Domain\bin\Debug\net8.0\juniorhup.Domain.pdb
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Domain\obj\Debug\net8.0\juniorhup.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Domain\obj\Debug\net8.0\juniorhup.Domain.AssemblyInfoInputs.cache
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Domain\obj\Debug\net8.0\juniorhup.Domain.AssemblyInfo.cs
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Domain\obj\Debug\net8.0\juniorhup.Domain.csproj.CoreCompileInputs.cache
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Domain\obj\Debug\net8.0\juniorhup.Domain.sourcelink.json
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Domain\obj\Debug\net8.0\juniorhup.Domain.dll
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Domain\obj\Debug\net8.0\refint\juniorhup.Domain.dll
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Domain\obj\Debug\net8.0\juniorhup.Domain.pdb
+D:\CleanArchitectureDemo\CleanArchitecture\juniorhup.Domain\obj\Debug\net8.0\ref\juniorhup.Domain.dll

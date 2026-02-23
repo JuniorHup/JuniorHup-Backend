@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "juniorhup.Application/1.0.0": {
+        "dependencies": {
+          "juniorhup.Domain": "1.0.0"
+        },
+        "runtime": {
+          "juniorhup.Application.dll": {}
+        }
+      },
+      "juniorhup.Domain/1.0.0": {
+        "runtime": {
+          "juniorhup.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "juniorhup.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "juniorhup.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
