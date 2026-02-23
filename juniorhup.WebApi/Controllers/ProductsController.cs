@@ -1,6 +1,8 @@
 using juniorhup.Application.DTOs;
 using juniorhup.Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
+
 
 namespace juniorhup.WebApi.Controllers
 {
@@ -48,6 +50,16 @@ namespace juniorhup.WebApi.Controllers
         {
             await _productService.DeleteAsync(id);
             return NoContent();
+        }
+
+
+        [HttpPost("login-test")]
+        public IActionResult LoginTest([FromBody] LoginRequest request)
+        {
+            if (request.Username != "test" || request.Password != "123456")
+                return Unauthorized();
+
+            return Ok(new { message = "LoginTest OK" });
         }
     }
 }
